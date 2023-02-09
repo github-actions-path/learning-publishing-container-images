@@ -1,4 +1,4 @@
-# 03_03-publishing-container-images
+# Publishing-container-images
 Use these files to demonstrate publishing a container image to the GitHub Package registry.
 
 1. Create a new, public repo.
